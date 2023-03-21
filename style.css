@@ -1,0 +1,8 @@
+video {
+    position:absolute;
+    top:0;
+    left: 220px;
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+}
